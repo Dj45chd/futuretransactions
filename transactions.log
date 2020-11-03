@@ -1,0 +1,228 @@
+2020-11-03 13:30:25.966  INFO 43492 --- [main] c.a.f.FuturetransactionsApplication      : Starting FuturetransactionsApplication on C02YX16MLVDL with PID 43492 (/Users/dhirajsharma/Documents/Qantas/futuretransactions/target/classes started by dhirajsharma in /Users/dhirajsharma/Documents/Qantas/futuretransactions)
+2020-11-03 13:30:25.971  INFO 43492 --- [main] c.a.f.FuturetransactionsApplication      : No active profile set, falling back to default profiles: default
+2020-11-03 13:30:27.010  INFO 43492 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$9565fee6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-03 13:30:27.056  INFO 43492 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2020-11-03 13:30:27.384  INFO 43492 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-03 13:30:27.393  INFO 43492 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-03 13:30:27.393  INFO 43492 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-11-03 13:30:27.472  INFO 43492 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-03 13:30:27.473  INFO 43492 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1432 ms
+2020-11-03 13:30:28.222  INFO 43492 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-03 13:30:28.592  INFO 43492 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2020-11-03 13:30:28.694  INFO 43492 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-03 13:30:28.707  INFO 43492 --- [main] c.a.f.FuturetransactionsApplication      : Started FuturetransactionsApplication in 3.252 seconds (JVM running for 4.09)
+2020-11-03 13:31:38.673  INFO 43492 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-03 13:31:38.674  INFO 43492 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-11-03 13:31:38.722  INFO 43492 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 47 ms
+2020-11-03 13:32:41.055  INFO 43492 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2020-11-03 13:32:41.056  INFO 43492 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-03 13:32:44.312  INFO 44811 --- [main] c.a.f.FuturetransactionsApplication      : Starting FuturetransactionsApplication on C02YX16MLVDL with PID 44811 (/Users/dhirajsharma/Documents/Qantas/futuretransactions/target/classes started by dhirajsharma in /Users/dhirajsharma/Documents/Qantas/futuretransactions)
+2020-11-03 13:32:44.314  INFO 44811 --- [main] c.a.f.FuturetransactionsApplication      : No active profile set, falling back to default profiles: default
+2020-11-03 13:32:44.964  INFO 44811 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$88303aa3] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-03 13:32:44.998  INFO 44811 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2020-11-03 13:32:45.210  INFO 44811 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-03 13:32:45.217  INFO 44811 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-03 13:32:45.217  INFO 44811 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-11-03 13:32:45.276  INFO 44811 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-03 13:32:45.277  INFO 44811 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 925 ms
+2020-11-03 13:32:45.817  INFO 44811 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-03 13:32:46.098  INFO 44811 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2020-11-03 13:32:46.173  INFO 44811 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-03 13:32:46.183  INFO 44811 --- [main] c.a.f.FuturetransactionsApplication      : Started FuturetransactionsApplication in 2.209 seconds (JVM running for 2.949)
+2020-11-03 13:32:53.672  INFO 44811 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-03 13:32:53.673  INFO 44811 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-11-03 13:32:53.690  INFO 44811 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 17 ms
+2020-11-03 13:34:04.609  INFO 44811 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2020-11-03 13:34:04.612  INFO 44811 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-03 13:34:08.916  INFO 45618 --- [main] c.a.f.FuturetransactionsApplication      : Starting FuturetransactionsApplication on C02YX16MLVDL with PID 45618 (/Users/dhirajsharma/Documents/Qantas/futuretransactions/target/classes started by dhirajsharma in /Users/dhirajsharma/Documents/Qantas/futuretransactions)
+2020-11-03 13:34:08.918  INFO 45618 --- [main] c.a.f.FuturetransactionsApplication      : No active profile set, falling back to default profiles: default
+2020-11-03 13:34:09.622  INFO 45618 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$d9a956f5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-03 13:34:09.661  INFO 45618 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2020-11-03 13:34:09.873  INFO 45618 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-03 13:34:09.879  INFO 45618 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-03 13:34:09.879  INFO 45618 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-11-03 13:34:09.934  INFO 45618 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-03 13:34:09.934  INFO 45618 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 969 ms
+2020-11-03 13:34:10.496  INFO 45618 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-03 13:34:10.802  INFO 45618 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2020-11-03 13:34:10.882  INFO 45618 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-03 13:34:10.893  INFO 45618 --- [main] c.a.f.FuturetransactionsApplication      : Started FuturetransactionsApplication in 2.308 seconds (JVM running for 2.934)
+2020-11-03 13:34:15.300  INFO 45618 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-03 13:34:15.301  INFO 45618 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-11-03 13:34:15.320  INFO 45618 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 19 ms
+2020-11-03 13:36:59.247  INFO 45618 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2020-11-03 13:36:59.249  INFO 45618 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-03 13:37:03.579  INFO 47340 --- [main] c.a.f.FuturetransactionsApplication      : Starting FuturetransactionsApplication on C02YX16MLVDL with PID 47340 (/Users/dhirajsharma/Documents/Qantas/futuretransactions/target/classes started by dhirajsharma in /Users/dhirajsharma/Documents/Qantas/futuretransactions)
+2020-11-03 13:37:03.582  INFO 47340 --- [main] c.a.f.FuturetransactionsApplication      : No active profile set, falling back to default profiles: default
+2020-11-03 13:37:04.269  INFO 47340 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$402131de] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-03 13:37:04.304  INFO 47340 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2020-11-03 13:37:04.521  INFO 47340 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-03 13:37:04.528  INFO 47340 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-03 13:37:04.528  INFO 47340 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-11-03 13:37:04.583  INFO 47340 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-03 13:37:04.583  INFO 47340 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 957 ms
+2020-11-03 13:37:04.669  WARN 47340 --- [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'futureTransactionController': Unsatisfied dependency expressed through field 'futureTransactionService'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'futureTransactionService': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'input_file' in value "${input_file}"
+2020-11-03 13:37:04.671  INFO 47340 --- [main] o.apache.catalina.core.StandardService   : Stopping service [Tomcat]
+2020-11-03 13:37:04.679  INFO 47340 --- [main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-11-03 13:37:04.693 ERROR 47340 --- [main] o.s.boot.SpringApplication               : Application run failed
+
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'futureTransactionController': Unsatisfied dependency expressed through field 'futureTransactionService'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'futureTransactionService': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'input_file' in value "${input_file}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879) ~[spring-context-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551) ~[spring-context-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143) ~[spring-boot-2.3.4.RELEASE.jar:2.3.4.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758) [spring-boot-2.3.4.RELEASE.jar:2.3.4.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750) [spring-boot-2.3.4.RELEASE.jar:2.3.4.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397) [spring-boot-2.3.4.RELEASE.jar:2.3.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315) [spring-boot-2.3.4.RELEASE.jar:2.3.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237) [spring-boot-2.3.4.RELEASE.jar:2.3.4.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226) [spring-boot-2.3.4.RELEASE.jar:2.3.4.RELEASE]
+	at com.abnambro.futuretransactions.FuturetransactionsApplication.main(FuturetransactionsApplication.java:12) [classes/:na]
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'futureTransactionService': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'input_file' in value "${input_file}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:405) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1307) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	... 20 common frames omitted
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'input_file' in value "${input_file}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:178) ~[spring-core-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124) ~[spring-core-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239) ~[spring-core-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210) ~[spring-core-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175) ~[spring-context-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:918) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1248) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399) ~[spring-beans-5.2.9.RELEASE.jar:5.2.9.RELEASE]
+	... 31 common frames omitted
+
+2020-11-03 13:37:20.708  INFO 47543 --- [main] c.a.f.FuturetransactionsApplication      : Starting FuturetransactionsApplication on C02YX16MLVDL with PID 47543 (/Users/dhirajsharma/Documents/Qantas/futuretransactions/target/classes started by dhirajsharma in /Users/dhirajsharma/Documents/Qantas/futuretransactions)
+2020-11-03 13:37:20.712  INFO 47543 --- [main] c.a.f.FuturetransactionsApplication      : No active profile set, falling back to default profiles: default
+2020-11-03 13:37:21.378  INFO 47543 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$3723de77] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-03 13:37:21.412  INFO 47543 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2020-11-03 13:37:21.623  INFO 47543 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-03 13:37:21.629  INFO 47543 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-03 13:37:21.630  INFO 47543 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-11-03 13:37:21.682  INFO 47543 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-03 13:37:21.682  INFO 47543 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 925 ms
+2020-11-03 13:37:22.216  INFO 47543 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-03 13:37:22.492  INFO 47543 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2020-11-03 13:37:22.567  INFO 47543 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-03 13:37:22.578  INFO 47543 --- [main] c.a.f.FuturetransactionsApplication      : Started FuturetransactionsApplication in 2.244 seconds (JVM running for 2.762)
+2020-11-03 13:37:28.048  INFO 47543 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-03 13:37:28.051  INFO 47543 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-11-03 13:37:28.067  INFO 47543 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 16 ms
+2020-11-03 13:37:51.638  INFO 47543 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2020-11-03 13:37:51.640  INFO 47543 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-03 13:37:54.507  INFO 47846 --- [main] c.a.f.FuturetransactionsApplication      : Starting FuturetransactionsApplication on C02YX16MLVDL with PID 47846 (/Users/dhirajsharma/Documents/Qantas/futuretransactions/target/classes started by dhirajsharma in /Users/dhirajsharma/Documents/Qantas/futuretransactions)
+2020-11-03 13:37:54.510  INFO 47846 --- [main] c.a.f.FuturetransactionsApplication      : No active profile set, falling back to default profiles: default
+2020-11-03 13:37:55.252  INFO 47846 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$7fdec0c9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-03 13:37:55.289  INFO 47846 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2020-11-03 13:37:55.503  INFO 47846 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-03 13:37:55.509  INFO 47846 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-03 13:37:55.509  INFO 47846 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-11-03 13:37:55.564  INFO 47846 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-03 13:37:55.564  INFO 47846 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1005 ms
+2020-11-03 13:37:56.099  INFO 47846 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-03 13:37:56.381  INFO 47846 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2020-11-03 13:37:56.458  INFO 47846 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-03 13:37:56.470  INFO 47846 --- [main] c.a.f.FuturetransactionsApplication      : Started FuturetransactionsApplication in 2.308 seconds (JVM running for 2.811)
+2020-11-03 13:37:59.594  INFO 47846 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-03 13:37:59.595  INFO 47846 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-11-03 13:37:59.617  INFO 47846 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 22 ms
+2020-11-03 13:39:50.907  INFO 47846 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2020-11-03 13:39:50.909  INFO 47846 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-03 13:39:55.325  INFO 48964 --- [main] c.a.f.FuturetransactionsApplication      : Starting FuturetransactionsApplication on C02YX16MLVDL with PID 48964 (/Users/dhirajsharma/Documents/Qantas/futuretransactions/target/classes started by dhirajsharma in /Users/dhirajsharma/Documents/Qantas/futuretransactions)
+2020-11-03 13:39:55.330  INFO 48964 --- [main] c.a.f.FuturetransactionsApplication      : No active profile set, falling back to default profiles: default
+2020-11-03 13:39:56.071  INFO 48964 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$f8bd68d2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-03 13:39:56.107  INFO 48964 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2020-11-03 13:39:56.332  INFO 48964 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-03 13:39:56.340  INFO 48964 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-03 13:39:56.340  INFO 48964 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-11-03 13:39:56.402  INFO 48964 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-03 13:39:56.402  INFO 48964 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1014 ms
+2020-11-03 13:39:56.976  INFO 48964 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-03 13:39:57.269  INFO 48964 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2020-11-03 13:39:57.349  INFO 48964 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-03 13:39:57.359  INFO 48964 --- [main] c.a.f.FuturetransactionsApplication      : Started FuturetransactionsApplication in 2.698 seconds (JVM running for 3.319)
+2020-11-03 13:40:03.190  INFO 48964 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-03 13:40:03.191  INFO 48964 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-11-03 13:40:03.213  INFO 48964 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 22 ms
+2020-11-03 13:40:18.371  INFO 48964 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2020-11-03 13:40:18.373  INFO 48964 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-03 13:40:22.802  INFO 49268 --- [main] c.a.f.FuturetransactionsApplication      : Starting FuturetransactionsApplication on C02YX16MLVDL with PID 49268 (/Users/dhirajsharma/Documents/Qantas/futuretransactions/target/classes started by dhirajsharma in /Users/dhirajsharma/Documents/Qantas/futuretransactions)
+2020-11-03 13:40:22.806  INFO 49268 --- [main] c.a.f.FuturetransactionsApplication      : No active profile set, falling back to default profiles: default
+2020-11-03 13:40:23.635  INFO 49268 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$4b294a68] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-03 13:40:23.670  INFO 49268 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2020-11-03 13:40:23.898  INFO 49268 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-03 13:40:23.905  INFO 49268 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-03 13:40:23.905  INFO 49268 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-11-03 13:40:23.963  INFO 49268 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-03 13:40:23.964  INFO 49268 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1113 ms
+2020-11-03 13:40:24.676  INFO 49268 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-03 13:40:24.971  INFO 49268 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2020-11-03 13:40:25.059  INFO 49268 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-03 13:40:25.074  INFO 49268 --- [main] c.a.f.FuturetransactionsApplication      : Started FuturetransactionsApplication in 2.696 seconds (JVM running for 3.267)
+2020-11-03 13:40:26.764  INFO 49268 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-03 13:40:26.764  INFO 49268 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-11-03 13:40:26.797  INFO 49268 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 32 ms
+2020-11-03 13:45:20.784  INFO 49268 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2020-11-03 13:45:20.795  INFO 49268 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-03 13:45:29.692  INFO 52291 --- [main] c.a.f.FuturetransactionsApplication      : Starting FuturetransactionsApplication on C02YX16MLVDL with PID 52291 (/Users/dhirajsharma/Documents/Qantas/futuretransactions/target/classes started by dhirajsharma in /Users/dhirajsharma/Documents/Qantas/futuretransactions)
+2020-11-03 13:45:29.694  INFO 52291 --- [main] c.a.f.FuturetransactionsApplication      : No active profile set, falling back to default profiles: default
+2020-11-03 13:45:30.611  INFO 52291 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$7e6f5d13] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-03 13:45:30.654  INFO 52291 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2020-11-03 13:45:31.048  INFO 52291 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-03 13:45:31.064  INFO 52291 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-03 13:45:31.064  INFO 52291 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-11-03 13:45:31.139  INFO 52291 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-03 13:45:31.139  INFO 52291 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1391 ms
+2020-11-03 13:45:31.847  INFO 52291 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-03 13:45:32.232  INFO 52291 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2020-11-03 13:45:32.326  INFO 52291 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-03 13:45:32.338  INFO 52291 --- [main] c.a.f.FuturetransactionsApplication      : Started FuturetransactionsApplication in 3.119 seconds (JVM running for 4.063)
+2020-11-03 13:45:55.351  INFO 52291 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-03 13:45:55.354  INFO 52291 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-11-03 13:45:55.375  INFO 52291 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 21 ms
+2020-11-03 13:47:26.845  INFO 52291 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2020-11-03 13:47:26.851  INFO 52291 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-03 13:47:31.071  INFO 53510 --- [main] c.a.f.FuturetransactionsApplication      : Starting FuturetransactionsApplication on C02YX16MLVDL with PID 53510 (/Users/dhirajsharma/Documents/Qantas/futuretransactions/target/classes started by dhirajsharma in /Users/dhirajsharma/Documents/Qantas/futuretransactions)
+2020-11-03 13:47:31.074  INFO 53510 --- [main] c.a.f.FuturetransactionsApplication      : No active profile set, falling back to default profiles: default
+2020-11-03 13:47:32.091  INFO 53510 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$EnhancerBySpringCGLIB$$678adc81] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-11-03 13:47:32.142  INFO 53510 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2020-11-03 13:47:32.427  INFO 53510 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-03 13:47:32.434  INFO 53510 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-03 13:47:32.435  INFO 53510 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.38]
+2020-11-03 13:47:32.493  INFO 53510 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-11-03 13:47:32.493  INFO 53510 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1269 ms
+2020-11-03 13:47:33.021  INFO 53510 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-03 13:47:33.304  INFO 53510 --- [main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
+2020-11-03 13:47:33.380  INFO 53510 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-03 13:47:33.391  INFO 53510 --- [main] c.a.f.FuturetransactionsApplication      : Started FuturetransactionsApplication in 2.727 seconds (JVM running for 3.443)
+2020-11-03 13:47:41.611  INFO 53510 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-03 13:47:41.612  INFO 53510 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-11-03 13:47:41.631  INFO 53510 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 19 ms
+2020-11-03 13:53:17.157  INFO 53510 --- [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
+2020-11-03 13:53:17.172  INFO 53510 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
